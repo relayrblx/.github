@@ -5,4 +5,4 @@ Connecting **Roblox** and **Discord** together to make a seameless product hub.
 - 🛍️ Sell products, services, subscriptions.
 - 🤖 Automated Updates and more
 
-🌐 [Site](https://relaytech.lol) • 💬 [Discord](https://)
+🌐 [Site](https://relaytech.lol) • 💬 [Discord](https://discord.gg/ag2vfE5Xe5)
